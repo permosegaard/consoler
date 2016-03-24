@@ -1,0 +1,23 @@
+{
+  "name": "consoler",
+  "dependencies": {
+    "blessed": "*",
+    "blessed-contrib": "*",
+    "cache-require-paths": "*",
+    "cache-require-source": "*",
+    "chrome2calltree": "*",
+    "cpu-stats": "*",
+    "df": "*",
+    "disk-stat": "*",
+    "fs": "*",
+    "memory-streams": "*",
+    "net-ping": "*",
+    "net-stat": "*",
+    "node-proc": "*",
+    "pty.js": "*",
+    "sleep": "*",
+    "sparkline": "*",
+    "term.js": "*",
+    "v8-profiler": "*"
+  }
+}
